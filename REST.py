@@ -17,4 +17,3 @@ def add_pet(new_pet):
 
 print(get_pet_by_id(10))
 
-11
